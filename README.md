@@ -1,5 +1,5 @@
 ## chat_application-nodejs
 
 
-A  group chat application using nodejs
+A group chat application | Using nodejs
  UNDER WORKING
